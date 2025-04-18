@@ -32,4 +32,4 @@ To get started with this project, clone the repository and install dependencies:
 Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/freelance-crm.git
+git clone https://github.com/MaxGot69/freelance-crm.git
